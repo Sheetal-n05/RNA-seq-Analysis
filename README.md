@@ -15,7 +15,7 @@ All four reversible terminator–bound dNTPs are present during each sequencing 
 
 Post sequencing, raw data (.fq) processed through pipeline in AWS. Processing gets data analysis ready. 
 
-Here we see MultiQC reports for all the samples and verify if pipeline has run properly through all the pipeline components 
+Here, we can view MultiQC reports for all the samples and verify whether the pipeline has run properly through all of its components.
 
 
 **3. Data Analysis and visualization**
